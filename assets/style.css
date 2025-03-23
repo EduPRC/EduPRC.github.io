@@ -4,9 +4,14 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: #f3f3f3;
+    color: #0e0d0d;
+}
+
 .header__container {
     width: 100%;
-    background-color: #33cc00;
+    background-color: #5320a6;
     height: auto;
     padding: 20px;
 }
@@ -38,7 +43,7 @@
 }
 
 .header__a:hover {
-    background-color: #328004;
+    background-color: #8832f4;
 }
 
 
